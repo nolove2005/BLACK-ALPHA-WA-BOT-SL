@@ -9,7 +9,7 @@
   "author": "A-d-i-t-h-y-a-n",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.git",
+    "@adiwajshing/baileys": "git@github.com:nolove2005/BLACK-ALPHA-WA-BOT-SL.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^0.24.0",
